@@ -54,7 +54,7 @@
     --body-font: "Poppins", sans-serif;
     /* ========================= Theme Color Start ============================= */
     /* Base Color */
-    --base-h: 150;
+    --base-h: 225;
     --base-s: 100%;
     --base-l: 54%;
     --base: var(--base-h) var(--base-s) var(--base-l);

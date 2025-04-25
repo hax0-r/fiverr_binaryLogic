@@ -11729,7 +11729,7 @@ body.loading-s {
 }
 
 .privacy__area .privacy__wrap {
-    display: grid;
+    display: block;
     grid-template-columns: 18.75rem 1fr;
     gap: 4.375rem;
 }
